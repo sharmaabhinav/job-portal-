@@ -1,0 +1,55 @@
+About project
+
+Online job portal created in netbeans using jsp , servlets , beans etc
+
+four pillars of project:-
+
+1)admin
+2)company
+3)college
+4)students
+
+admin : - manages the site.can create , delete accounts for comapanies , colleges
+
+company :- contacts admin for registration.after opening account fills details.
+
+college : - contacts admin for registration . after opening fills details.
+
+student: - student signup himself/herself and then logs in his account.
+
+
+flow-  company are registered first and then colleges.after that students of registered colleges can sign up.
+
+
+functionality:- comapanies can post openings for different jobs and registered students can apply to jobs.
+                comapanies shortlist from applications and verify student details from college through tpo cell.
+		companies can directly select students or call them for interview .
+
+
+                companies can search students on particular criteria basis: - percentage , skills , domain , area , year
+
+
+
+
+
+structure of project:---
+
+Project Material / OnlineJobPortal-----> src/java/Beans (beans)
+                                  -----> ConnPack  (package in java for database handling created myself and portable (database independent)
+				 ------> servlet files
+
+
+                       OnlineJobPortal/web ----> Admin (admin jsp files)
+                                           ----> College(college jsp files)
+                                           ----> Company
+                                            ----> Student
+                                           -----> RootDocs(students documents)
+                                              basic jsp pages(error ,index) 
+
+
+skills:--> ajax , css , html , java
+
+shortcomings ->> 1)not followed  mvc architecture 
+		 2)not good front end design
+		3) slow searching (make index base in future)
+
