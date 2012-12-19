@@ -1,0 +1,14 @@
+
+
+.footer {
+	background-image: url(../_images/header_bg.jpg);
+	background-repeat: repeat-x;
+	width:100%;
+	height: 70px;
+	float:left;
+}
+.footer p {
+	margin: 0; /* zeroing the margins of the first element in the footer will avoid the possibility of margin collapse - a space between divs */
+	/*padding: 10px 0;  padding on this element will create space, just as the the margin would have, without the margin collapse issue */
+}
+

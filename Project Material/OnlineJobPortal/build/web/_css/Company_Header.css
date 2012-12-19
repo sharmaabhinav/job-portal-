@@ -1,0 +1,27 @@
+/* 
+    Document   : Company_Header
+    Created on : Feb 20, 2012, 10:35:54 AM
+    Author     : KARMA
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+
+.myheader{
+        background-image: url(../_images/abc.jpg);
+	background-repeat: repeat-x;
+	background-attachment: fixed;
+        height: 100px;
+
+}
+.myheader a:link {
+    color:#ffffff;
+}
+.myheader a:visited {
+    color:#ffffff;
+}

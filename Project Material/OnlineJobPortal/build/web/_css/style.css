@@ -1,0 +1,48 @@
+body {	font-family: tahoma; margin:0; padding:0; color:#382c1d; font-size:11px; width:100%; background: #FFFFFF  
+}
+form {margin:0;  padding:0;
+}
+img {border:0px
+}
+a {	color:#382c1d; font-size:11px; text-decoration:underline
+}
+a:hover {text-decoration:none;
+}
+#body { width:738px;  position:relative; text-align:left;
+} 
+#header {position:absolute; width:100%; background:url(images/bg.gif) no-repeat left top
+}
+#nav {width:100%; background:url(images/abc.png) no-repeat center center; height:73px
+}
+#nav ul{margin:0; padding:0; list-style:none;
+}
+#nav li{margin:0; padding:0; display:inline; 
+}
+#logo {width:279px; position:absolute; top:0px; left:0px
+}
+#search {width:195px; position:absolute; top:123px; left:0px; background:#FFFFFF; color:#4290d0
+}
+.input {font-family:Tahoma; font-size:11px; color:#828282; background:#FFFFFF; width:164px; height:15px; padding:2px 0 0 8px; border:1px #eaeaea solid
+}
+.select {font-family:Tahoma; font-size:11px; color:#828282; background:#FFFFFF; width:174px; height:18px; 
+}
+#content {width:100%;
+}
+#icon { font-family: Tahoma; font-size: 11px; color:#545454; line-height: 24px
+}
+#icon a { font-family: Tahoma; font-size: 11px; color:#545454; line-height: 24px; background:url(images/icon.gif) no-repeat left center; padding-left:13px;
+ text-decoration:underline
+}
+#icon a:hover { font-family: Tahoma; font-size: 11px; color:#545454; line-height: 24px; background:url(images/icon.gif) no-repeat left center;text-decoration:none
+}
+.mess {font-family:Tahoma; font-size:11px; color:#828282; background:#FFFFFF; width:260px; height:92px; padding:2px 0 0 8px; border:1px #eaeaea solid
+}
+
+
+/*
+<input class="input1" name="name" type="text" value="Username or Email Password:" onfocus="if (this.value == 'Username or Email Password:') this.value = '';" onblur="if (this.value == '') this.value = 'Username or Email Password:';" />
+
+
+
+*/
+.lkj{background: url(images/bg.gif) repeat }

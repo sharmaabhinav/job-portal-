@@ -1,0 +1,40 @@
+/* 
+    Document   : mainContent
+    Created on : Feb 19, 2012, 10:57:43 PM
+    Author     : KARMA
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+body{
+     background-color: #fff;
+}
+.mainContent{
+   
+    height: 450px;
+    width:100%;
+}
+
+.imgcss{
+   width: 200px; height: 200px;
+border-bottom-width: 1px;
+border-bottom-color: black;
+border-bottom-style: solid;
+
+border-top-width: 1px;
+border-top-color: black;
+border-top-style: solid;
+
+border-left-width: 1px;
+border-left-color: black;
+border-left-style: solid;
+
+border-right-width: 1px;
+border-right-color: black;
+border-right-style: solid;
+
+}

@@ -1,0 +1,70 @@
+/* 
+    Document   : Student_Header
+    Created on : Feb 19, 2012, 10:23:29 PM
+    Author     : KARMA
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+
+
+
+.myheader{
+        background-image: url(../_images/header_bg.jpg);
+	background-repeat: repeat-x;
+	background-attachment: fixed;
+        height: 50px;
+
+}
+.logo{
+ float :left;
+    font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 36px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	color: #FFF;
+}
+h1 {
+	margin:0;
+	color:#C03;
+	font:normal 40px/1.2em Georgia, "Times New Roman", Times, serif;
+	padding: 10px;
+}
+
+h1 a{
+	color:#fff;
+	text-decoration:none;
+}
+h1 span {color:#007236;}
+h1 small {
+	font:normal 13px/1.2em Georgia, "Times New Roman", Times, serif;
+	color:#FFF;
+}
+menu{
+ float:right;
+    
+}
+.tableclass a:hover{
+    color:white;
+    text-decoration: none;
+
+    
+}
+a:link{
+    text-decoration: none;
+}
+a:visited{
+    text-decoration: none;
+    
+
+}
+a:active{
+    text-decoration: none;
+}

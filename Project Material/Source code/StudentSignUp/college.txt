@@ -1,0 +1,424 @@
+IIT Roorkee -Dept. of Mgmt Studies
+ACCOE,Karaikudy (Alagappa Chettiar College of Engg &amp; Tech)
+AISSMS,Pune (All India Sree Sivaji Memmorial Society)
+AITS,Coimbatore (Amrita Institute of Technology &amp; Science)
+AMITY SCHOOL OF INSURANCE AND ACTURIAL SCIENCE, NOIDA
+ASB &nbsp;Coimbatore(Amrita School of Business )
+Amal Jyothi COE, Kottayam
+Amity Business School, Delhi
+Anand Engg College, Agra
+Annamalai University, Chidambaram
+Army Institute of Technology,Pune
+Arulmigu Kalasalingam COE, Madurai
+Arunai Engineering College
+Asansol Engg College, Asansol - W. Bengal
+Assam Engineering College, Guwahati
+B K School of Mgmt, Ahmedabad
+BHU-CS,Varanasi (Banaras Hindu University, Comp. Sc. Dept)
+BHU-IT,Varanasi (Banaras Hindu University, IT)
+BIET- Davangere,Karnataka(Bapuji Instt of Engg &amp; Technology)
+BIM, Trichy (Bhartidasan Instt. of Management)
+BIT Mesra, Ranchi(Birla Institute of Technology)
+BITS &nbsp;Pilani
+BMS COE, Bangalore
+BP Podar Inst of Engg &amp; Mgmt
+BVB College of Engg &amp; Tech, Hubli
+BWM Vallabh Vidyanagar (Birla Vishwakarma Mahavidyalaya)
+Banasthali Vidyapeeth, Jaipur
+Bannari Amman Instt of Tech,Coimbatore
+Bapatla Engg College, Guntur
+Bengal COE &amp; Tech, Durgapur
+Bengal Engg College, Howrah
+Bharat Institute of Technology, Meerut
+Bharatiya Vidyapith COE, N Delhi
+Bharti Vidyapeeth COE, Pune
+Bhoj Reddy Engg College, Hyderabad
+Bishop Heber College, Trichy
+Bundelkhand Inst of Technology, Jhansi
+C U Shah COE &amp; Tech, Surendra Nagar
+CBIT-Hyderabad (Chaityana Bharati Institute of Technology)
+CCM- Bangalore (Christ College of Management)
+CMR Institute of Technology, Bangalore
+COE Chengannur
+COE SV University, Tirupati
+COE, Guindy (Anna Univ., Chennai)
+COE, Osmania Univ, Hyderabad
+COEM- Kolaghat, W. Bengal (College of Engg &amp; Mgmt)
+CS Dept, University of Pune
+CUSAT-Cochin (School of Engineering, Cochin University of Science &amp; Technology)
+CV Raman College of Engg - Bhubaneswar
+Calcutta University
+Central University, Hyderabad
+Centre for Information Technology, SP Jain Instt of Mgmt &amp; Res., Mumbai
+Chetana's RK &nbsp;Instt of Mgmt &amp; Research, Mumbai
+Chotu Ram COE, Murthal
+Coimbatore Instt of Tech,Coimbatore
+College of Engg, Andhra University
+College of Engg, Thiruvananthapuram
+College of Engineering, Jabalpur
+College of Tech,GB Pant Univ.
+Crescent Engg College, Madras
+Cummins COE for Women, Pune
+D G Vaishnav College, Madras
+DAVV- Indore (Institute of CS &amp; Electronics, IES &amp; IIPS, Devi Ahilya Vishwavidyalaya )
+DDIT, Nadiad &nbsp;(Dharmsi Desai Inst of Technology )
+DDIT-Nadiad (Dharmsi Desai Inst of Technology)
+DG Vaishnav College,Chennai
+DJ Sanghvi COE, Mumbai
+DY Patil COE, &nbsp;Pune
+Delhi College of Engg (DCE), Delhi
+Delhi Instt of Advanced Technology, New Delhi
+Dept. of CS &amp; App,Madras University (Dept. of Computer Science &amp; Application)
+Dept. of CS &amp; Technology,Goa University
+Dept. of CS, Ahmedabad-Rollwala Computer Centre
+Dept. of CS, Electronics, IT &amp; MCA - SNDT Women's University
+Dept. of CS, Utkal University, Bhubaneswar
+Dept. of Comp. Sc., Delhi University
+Dept. of Mgmt Studies,IIT Madras
+Dhirubhai Ambani Inst of I&amp;C Technology, Gandhinagar (State declared Deemed Univ)
+Dr BC Roy Engg College, Durgapur
+Dr Mahalingam COET, Pollachi
+Dr. Babasaheb Ambedkar Technological University, Lonere
+Dr. Sivanthi Adinatar COE,Thiruchendur
+Easwari Engineering College, Chennai
+Engineering College Kota
+FORE School of Management
+FORE School of Mgmt
+Faculty of Engg, Dayal Bagh Univ
+Faculty of Engg,Dayal Bagh University
+Fr. Conceicao Rodrigues College of Engg., Bandra, Mumbai
+Fr. Conceicao Rodrigues Institute of Tech, Vashi, Navi Mumbai
+Future Institute of Engg and Management
+G. Narayanamma Inst of Tech &amp; Science (For Women)
+GCOE Amravati
+GCOE Aurangabad
+GCOEP, Pune (Govt. College of Engg.)
+GH Patel Institute - PG Dept (MCA), Vidyanagar
+GH Patel Institute of E&amp;T, Vidyanagar
+GH Raisoni COE, Nagpur
+GITAM-Vishakhapatnam (Gandhi Institute of Technology &amp; Mgmt)
+GLA Institute of Technology &amp; Mgmt
+GLIM -Chennai (Great Lake Institute of Management)
+GRIET Miyapur, Hyderabad(Gokaraju Rangaraju Institute of Engg &amp; Tech)
+GRKIST- Jabalpur(Guru Ramdas Khalsa Institute of Science &amp; Technology)
+GVPCOE Madhuravada, Visakhapatnam(Gayathri Vidya Parishad COE)
+Goa Engineering College, Goa
+Goa Institute of Mgmt, &nbsp;Goa
+Gogte Inst of Tech, Belgaum
+Govt COE, Karad
+Govt College of Engg, Tirunelveli
+Govt College of Engg, Ujjain
+Govt College of Technology, Coimbatore
+Govt Engg College, Raipur
+Govt Engg College,Trichur (Thrissur)
+Govt. Engineering College, Ajmer
+Guru Nanak Institute of Technology
+Guru Nanak University, Amritsar(Dept of CS&amp; Electronics)
+Gurukul Kangri Deemed Univ - MCA College, Hardwar, MCA Women College, Dehradun (2 colleges)
+HBTI- Kanpur (Harcourt Butler Technological Institute)
+HCST Mathura (Hindustan College of Science &amp; Technology)
+Haldia Instt of Technology, Haldia - W. Bengal
+Heritage Inst of Technology
+Hitkarni COET, Jabalpur
+ICFAI -PUNE
+ICFAI Gurgaon
+ICFAI, Bangalore
+ICFAI, Chennai
+ICFAI, Hyderabad
+ICFAI, Kolkata
+ICFAI, Mumbai
+ICS- Mumbai Educational Trust(Institute of Computer Science)
+ICTM - Pune (Indian Centre for Telecom Management )
+IEM-Kolkata (Institute of Engg and Management)
+IET DAVV Indore
+IETL-Lucknow (Institute of Engineering &amp; Technology)
+IGIT- Sarang (Indira Gandhi Inst of Tech)
+IIFT, New Delhi (Indian Institute of Foreign Trade )
+IIIM-Jaipur (India International Institute of Management)
+IIIT Allahabad (Indian Institute of Information Technology)
+IIIT Bangalore (Indian Institute of Information Technology)
+IIIT Kolkata
+IIIT-Hyderabad (International Institute of Information Technology)
+IIITM Gwalior
+IIITM, Gwalior
+IIM Ahmedabad
+IIM Bangalore
+IIM Indore
+IIM Kolkata
+IIM Kozhikode
+IIM Lucknow
+IIMM -Pune (Indian Institute of Modern Management)
+IISWBM (INDIAN INSTITUTE OF SOCIAL WELFARE &amp; BUSINESS MANAGEMENT
+IISc, Bangalore
+IIT Bombay
+IIT Delhi
+IIT Kanpur
+IIT Madras
+IIT, Guwahati
+IIT, Kharagpur
+IIT, Roorkee
+IITMK-Trivandrum (Indian Instt of IT &amp; Mgmt, Kerala)
+IMCC- (Maharashtra Education Society's Institute of Management &amp; Career courses )
+IMDR -Pune(Institute of Management Development &amp; Research)
+IMI, New Delhi (International Management Institute )
+IMS -Indore (Institute of Management Studies)
+IMT, Ghaziabad (Institue of Management Technology )
+IMT-Ghaziabad (Institue of Management Technology)
+IPE-Osmania Univ,Hyderabad (Institute of Public Enterprise )
+IPS Academy, Indore
+ISB, Hyderabad (Indian School of Business)
+ISBM- Pune (International School of Business and Media )
+ISI Kolkata
+ITER-Bhubaneswar (Inst of Technical Education &amp; Res)
+ITM -Navi Mumbai(Institute for Technology &amp; Management)
+Indian School of Mines, Dhanbad
+Institute of Road Transport &amp; Technology, Erode
+Institute of Technology &amp; Marine Engineering
+Instt for Financial Mgmt,Chennai
+Instt of Engg &amp; Rural Tech,Allahabad
+JBIMS, Mumbai (Jamnalal Bajaj Institute of Mgmt Studies )
+JIS College of Engineering - Nadia
+JK Inst of Apld Physics &amp; Tech, Dept of ECE, Univ of Allahabad
+JNTU &nbsp;Kakinada (Jawaharlal Nehru Technological University)
+JNTU Aanantapur
+JNTU Kukatpally (Jawaharlal Nehru Technological University)
+JNTU Masabtank (Jawaharlal Nehru Technological University)
+JNU, New Delhi (School of Campus Systems &amp; Sciences, Jawaharlal Nehru University)
+JSS Academy of Technical Education, Noida
+Jadavpur University, Jadavpur
+Jagan Institute of Mgt Studies, Delhi
+Jalpaiguri Govt Engg College
+Jamal Mohd. College, Trichy
+Jamia Hamdard Deemed Univ, Delhi
+Jamia Milia Faculty of Engg &amp; Technology, New Delhi
+Jaypee Institute of Information Technology, Noida
+Jorhat COE, Kolkata
+K J Somaiya Instt of Mgmt,Mumbai
+K. K. Wagh COE,Nashik
+KIITS Bhubaneswar (Kalinga Instt of Industrial Technology &amp; Science)
+KITS &nbsp;Warangal (Kakatiya Institute of Technology &amp; Science)
+KJ Somaiya COE, Mumbai
+KLE Inst of Tech, Belgaum
+KLN College of Engineering, Madurai
+KNIT Sultanpur (Kamla Nehru Inst of Technology)
+Kalyani Govt. Engg College,Kalyani - W. Bengal
+Karnataka NIT (KNIT), Surathkal
+Karunya Inst of Technology &amp; Science, Coimbatore
+Kolhapur Institute of Technology, Kolhapur
+Koneru Lakshmaiah COE, Vijayawada
+Kongu Engg College, Erode
+Krishna Institute of Engg &amp; Tech,Ghaziabad
+Kumaraguru College of Technology, Coimbatore
+LBS Instt of Tech for Women,Trivandrum
+LBSIM -New Delhi (Lal Bahadur Shastri Institute of Business Management )
+LDCE- Ahmedabad (Lalbhai Dalpatbhai College of Engineering)
+LIBA, Chennai (Loyola Institute of Business Administration)
+LNCT, Bhopal (Lakshmi Narain College of Technology )
+M S University Baroda
+M. Kumaraswamy COE, Karur
+MANIT, Bhopal (Maulana Azad National Instt of Technology)
+MBM Govt Engg College, Jodhpur
+MCA Dept, Bharathiar University, Coimbatore
+MCITM- Indore (Medi Caps Institute of Technology &amp; Management)
+MCKV Inst of Engg
+MDI, Gurgaon (Management Development Institute)
+MEPCO SCHLENK COE,Sivakasi
+MERI New Delhi(Management Education and Research Institute)
+MES COE, Kuttipuram
+MH Saboo Siddiq COE, Mumbai
+MIET Meerut (Meerut Institute of Engineering And Technology)
+MILS -Mumbai (Maharashtra Institute of Labour Studies)
+MIT Women Engineering College
+MITS Lakshamgarh, Sikar, Rajasthan(Mody Inst of Tech &amp; Science)
+MITS, Gwalior (Madhav Institute of Technology &amp; Science)
+MJCOE &amp; Tech, Hyderabad
+MMEC &nbsp;Mullana, Ambala (Haryana)(Maharishi Markandeshwar Engg. College )
+MMMREC-Gorakhpur (Madan Mohan Malaviya Regional Engineering College)
+MNIR -Allahabad (Motilal Nehru Institute of Research)
+MNIT-Jaipur (Malaviya NIT )
+MNNIT (MNREC) Allahabad
+MSEC &nbsp;Chennai (Meenakshi Sundararajan Enginggering College)
+MSPI,Faculty of Mgmt Studies, Baroda (M S Patel Institute)
+MSRIT-Bangalore (M S Ramaiah Institute of Technology)
+MSSW -Chennai (Madras School of Social Work)
+MVEC Pondicherry (Manakula Vinayagar Engineering College)
+Madras Christian College, Chennai
+Madras Institute of Technology, Madras
+Madurai Kamaraj Univ, Madurai
+Mahakal Institute of Technology
+Maharashtra Institute of Tech,Pune
+Maharshi Dayanand Univ,Rohtak
+Mahila Instt of Technology, Delhi
+Mallabhum Instt of Tech,Gosaipur, Bankura
+Malnad COE, Hassan
+Manipal Institute of Technology,Manipal
+Mar Athanasius COE,Kothamangalam
+Meenakshi College for Women, Chennai
+Meghnad Saha Inst of Technology
+Model Engg College, Erankulam
+NBKRIST,Vidyanagar, Nellore (NBKR Institute of Science and Technology)
+NICM- Gandhinagar (National Inst of Co-operative Mgmt)
+NICOE Thucklay, Nagercoil (Noorul Islam College of Engineering)
+NIE-Mysore(National Institute of Engineering)
+NIM - Ahmedabad (Nirma Institute of Management )
+NIM, Kolkata (National &nbsp;Institute of Management)
+NIST-BerhampurNational Institute of Science &amp; Technology
+NIT Durgapur
+NIT Kurukshetra
+NIT Rourkela
+NIT Silchar
+NIT Srinagar
+NIT Trichy
+NIT Trichy-Dept. of Management Studies
+NIT Warangal
+NIT, Jamshedpur
+NIT- Hamirpur(National Institute of Technology)
+NIT- Jalandhar(Naitonal Inst of Technology)
+NIT-Ahmedabad (Nirma Institute of Technology)
+NIT-Calicut (National Instt of Technology)
+NITIE, Mumbai (National Instt of Industrial Engg )
+NMAM Nitte-Mangalore (Nitte Mahalinga Adyanthaya Memorial Institute of Technology) &nbsp;
+NMIMS, Mumbai (Narsee Monjee Institute of Management Studies )
+NSIT-New Delhi (Netaji Subhash Institute of Technology)
+Narula Inst of Technology
+National Engineering College, Kovilpatti
+National Insurance Academy, Pune
+Netaji Subhash Engineering College, WBUT, Kolkata
+North Bengal University (MCA), Siliguri
+OCAC-Bhubaneswar (Orissa Computer Application &nbsp;Centre)
+OIST-Bhopal (Oriental Institute of Science &amp; Tech)
+OUAT-Bhubaneswar (College of Engg &amp; Technology)
+Orissa Engg College, Bhubaneswar
+PESIT-Bangalore (Peoples Education Society Institute of Technology)
+PICT- Pune (Pune Institute of Computer Technology )
+PIMR -Indore(Prestige Institute of Management and Research)
+PSG College of Technology, Coimbatore
+PSG Instt of Mgmt, Coimbatore
+PVPP COE,Mumbai(Padmabhushan Vasantdada Patil Pratishthan's COE)
+Padmasri Dr. BV Raju Inst of Tech, Vishnupur
+Padre Conceicao COE, &nbsp;Goa
+Pondicherry Engg College, Pondicherry
+Pondicherry University ,MCA &amp; Dept. CS(Comp. Science)
+Priyadarshini COE, Nagpur
+Pune Vidyarthi Ciriha's COE &amp; Technology
+Punjab Engg College, Chandigarh
+Punjabi University, CS, &nbsp;Patiala
+RAIT, Nerul (Ramrao Adik Institute of Tech )
+RCC Institute of I.T., Kolkata
+RGCOE Pondy (Rajeev Gandhi College of Engg &amp; Tech)
+RGIT-Andheri, Mumbai (Rajiv Gandhi Institute of Technology)
+RMD Engineering College Chennai
+RMK Engineering College Chennai
+RVCE-Bangalore (Rashtreeya Vidyala College of Engineering)
+RVR &amp; JC COE,Guntur
+Raja Bazar College-Kolkata (College of Engg, Kolkata University)
+Rajagiri College of Mgmt,Cochin
+Rajagiri School of Engg &amp; Tech, Cochin
+Rajalakshmi Engg College,Thandalam, Chennai
+Ramnarain Ruia College, Matunga
+S P Jain Institute of Mgmt, Mumbai
+SAKEC- Mumbai (Shah and Anchor Kutchhi Engg College)
+SASTRA-THANJAVUR (SHANMUGHA ARTS, SCIENCE, TECHNOLOGY &amp; RESEARCH ACADEMY)
+SATI, Vidisha (Samrat Ashok Technological Institute )
+SCIT -Pune (Symbiosis Centre for Information Technology)
+SCMHRD -Pune (Symbiosis Centre for Management &amp; Human Resource Development )
+SCSVMV, Kanchipuram(Sri Chandrasekhara Saraswathy Viswa Maha Vidyalaya)
+SGGS COE- Nanded (Shri Guru Gobind Singhji College of Engg &amp; Technology)
+SGSITS, Indore (Shri Govindram Seksaria Instt of Tech &amp; Science )
+SIBM -Pune (Symbiosis Istitute of Business Management )
+SIES Nerul- Navi Mumbai
+SIIB -Pune (Symbiosis Institute of International Business )
+SIMS- Pune (Symbiosis Institute of Management Studies)
+SITM -Pune (Symbiosis Istitute of Telecom Management )
+SJCE-Mysore (Sri Jayachamarajendra College of Engg )
+SJMSM -IIT Bombay(Shailesh J Mehta School of Mgmt)
+SKNCOE, Pune (Smt. Kashi Bhai Nawale College of Engg )
+SMIT-Rangpo,East Sikkim (Sikkim Manipal Instt of Technology)
+SP Jain Dubai
+SPMVV-Tirupati (Sri Padmavathi Mahila Vishwavidyalaya)
+SRIEIT- Goa(Shree Rayeshwar Institute of Engg. &amp; Information Technology)
+SRKR Engineering College, Bhimavaram
+SRM Engg College, Kattankulathur
+SRMS COE &amp; Tech, Bareilly
+SSGMCE-Shegaon (Shri Sant Gajanan Maharaj College of Engineering )
+ST.Francis Instt of Tech, Borivli
+SVCOE Pennalur,Sriperumbudur,Chennai(Sri Venkateswara College of Engg)
+SVEC Tirupathi (Sree Vidyaniketan Engineering College)
+SVIM, Indore (Shri Vaishnav Institute of Mgmt )
+SVIT (Sardar Vallabhai Patel Institute of Technology)
+SVITS, Indore (Shri Vaishnav Institute of Tech &amp; Science )
+SVNIT Surat
+Sant Harchand Singh Longowal Central Instt of Engg &amp; Technology, Longawal
+Sardar Patel COE, Mumbai
+Sathyabhama COE, Chennai
+School of IT, Guru Gobind Indraprastha Univ, Delhi &nbsp;(for MCA/BTech/Mech integrated)
+School of Management,IISc Bangalore
+School of Mgmt, IIT Delhi
+School of Mgmt, IIT Kanpur
+School of Mgmt, Pondicherry Univ, Pondicherry
+School of Mgmt,Anna University
+School of Mgmt,BITS Pilani
+School of Mgmt,Osmania Univ,Hyderabad
+Seth JP Mukand Instt of Technology, Jamuna nagar
+Shri Ramdeobaba Kamla Nehru COE
+Siddaganga Institute of Tech,Tumkur
+Silicon Inst of Tech, Bhubaneswar
+Siliguri Instt of Technology
+Sinhgad COE- Pune
+Sona College of Technology, Salem
+Sree Chitra Thirunal COE, Trivandrum
+Sreenidhi Inst of Science &amp; Tech, JNTU, Hyderabad
+Sri Krishna COE &amp; Tech, Coimbatore
+Sri Sairam Engg College
+Sri Sivasubramania Nadar COE, Kalavakkam
+St Joseph's College of Engineering, Chennai
+St Joseph's SOM - Bangalore
+St. Joseph's College,Trichy &nbsp;(Autonomous)
+St. Thomas College of Engg, Kolkata
+Sydenham College &nbsp;Mumbai
+TA Pai Management Instt,Manipal
+TCMM -Jabalpur(The College of Materials Mgmt,Faculty of Management Studies)
+TIET-Patiala (Thapar Institute of Engg &amp; Technology)
+TISS, Mumbai (Tata Institute of Social Science)
+TIT- Bhopal (Technocrats Institute of Technology)
+TKM College of Engg, Quilon (Kollam)
+TSM &nbsp;Madurai (Thiagarajar School of Management)
+Techno India College
+Thadomal Sahani Engg College, Bandra
+Thakur COE &amp; Tech,Mumbai
+Thiagarajar COE, Madurai
+Thiagarajar School of Mgt,Madurai
+U V Patel COE Kherva
+UBDT College of Engg, Davangere
+UDCT, Univ. of Mumbai (University Department of Chemiocal Technology )
+UDMS -Pune University (Univ Dept of Mgmt Sciences )
+UIT - RGPV Bhopal (University Inst of Technology)
+UIT- Barkatullah Univ - Bhopal (University Inst of Technology )
+UVCE-Bangalore (University Visveswaraya College of Engg)
+Udaipur,Govt. College of Technology &amp; Engineering
+Univ. Business School,Chandigarh
+University College of Engg, Burla
+VESIT, Chembur (Vivekananda Education Society's Institute of Technology )
+VGSOM, IIT- KHARAGPUR (VINOD GUPTA SCHOOL OF MANAGEMENT
+VJTI, Mumbai (Veermata Jeejabhai Technological Instt)
+VNIT Nagpur (Visveswaraya National Institute of Technology )
+VR Siddhartha Engg College,Vijayawada
+VRSHTEC &nbsp;Avadi, Chennai (Vel Rangarajan Sakunthala High Tech Engineering College)
+VYWS's COE,Badnera
+Vasavi Engg College, Hyderabad
+Vel Tech Engg College,Avadi,Chennai
+Velammal Engg College, Chennai
+Vellore Institute of Technology
+Vidyavardhini's COE &amp; Tech, Mumbai
+Vignan's Engg College, Guntur
+Vijayanagara Engineering College, Bellary
+Vishwakarma Institute of IT,Pune
+Vishwakarma Institute of Tech,Pune
+Walchand COE, Sangli
+Welingkar's Instt of Mgmt,Mumbai
+XIM, Bhubaneswar
+XISS Ranchi
+XLRI, Jamshedpur (Xavier Labour Relations Institute )
+YMCA Institute of Engg,Faridabad
+Yeshwantrao Chavan COE, Nagpur
+Zakir Hussain COE &amp; Tech,AMU,Aligarh
